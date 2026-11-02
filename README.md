@@ -1,5 +1,9 @@
 # 私の最初のリポジトリ（2026-11-02）
 
+うらうらうらわあわわ
+
+やっほー
+
 `public/index.html` は「Hello World」と表示するだけのシンプルな HTML です。
 
 ## Claude Code 川柳
